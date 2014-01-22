@@ -1,0 +1,29 @@
+body {
+      background:#e3e3e3;
+    }
+    #container {
+      max-width:640px;
+      margin:10% auto 2em;
+      text-align:center;
+      background:#fff;
+      border:1px solid #ccc;
+      border-radius:6px;
+      padding:4em 6px 6px;
+    }
+    #container h1 {
+      color:#$red;
+    }
+    #container p {
+      background:#f6f6f6;
+      border:1px solid #ddd;
+      border-radius:3px;
+      padding:3em 1em;
+      margin:4em 0 0;
+      font-size:14px;
+      color:#666;
+      line-height:1.5;
+    }
+    .hint {
+      color:#999;
+      text-align:center
+    }
